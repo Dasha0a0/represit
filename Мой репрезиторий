@@ -1,0 +1,7 @@
+echo "# represit" >> README.md 
+git init 
+git add README.md 
+git commit -m "первая фиксация" 
+git Branch -M main 
+git удаленное добавление источника https://github.com/Dasha0a0/represit.git
+ git push - ты родной, главный
